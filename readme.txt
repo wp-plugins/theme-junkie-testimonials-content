@@ -1,5 +1,5 @@
 === Theme Junkie Testimonials Content ===
-Contributors: themejunkie, satrya
+Contributors: themejunkie
 Tags: testimonial, testimonials, post type, custom post type, widget, shortcode
 Requires at least: 3.6
 Tested up to: 3.9
